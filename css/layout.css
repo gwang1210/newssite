@@ -21,11 +21,24 @@ a {
 a:hover {
   text-decoration: none;
 }
-.article1, .article2, .article3 {
+.article1 {
   padding: 5px;
   margin-top: 8px;
   border: 1px solid #e6e6e6;
 }
-.number2, .number3 {
+.article2 {
+  padding: 5px;
+  margin-top: 8px;
+  border: 1px solid #e6e6e6;
+}
+.article3 {
+  padding: 5px;
+  margin-top: 8px;
+  border: 1px solid #e6e6e6;
+}
+.number2 {
+  margin-left: 8px;
+}
+.number3 {
   margin-left: 8px;
 }

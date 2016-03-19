@@ -9,3 +9,8 @@ h6.tagline {
 h1 {
   margin-top: 200px;}
 }
+.box grid_6 {
+  padding:10px;
+  margin: 10px;
+  width: 100%;
+}

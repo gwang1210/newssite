@@ -16,3 +16,10 @@ h1 {
   height:250px;
 }
 
+.image {
+  float:left;
+}
+
+.article {
+  float:right;
+}

@@ -18,8 +18,10 @@ h1 {
 
 .image {
   float:left;
+  width: 360px;
 }
 
 .article {
   float:right;
+  width: 360px;
 }

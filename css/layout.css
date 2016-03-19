@@ -19,9 +19,11 @@ h1 {
 .image {
   float:left;
   width: 360px;
+  padding: 10px;
 }
 
 .article {
   float:right;
   width: 360px;
+  padding: 10px;
 }

@@ -13,6 +13,9 @@ h6.tagline {
 img {
   width: 100%;
 }
+.box{
+  margin-top: 8px;
+}
 a {
   color: #222;
   text-decoration: none;

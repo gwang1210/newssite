@@ -7,6 +7,9 @@ h6.tagline {
   width: 100%;
   color: #4d4d4d;
 }
+.sidebar>h6{
+  color: #4d4d4d;
+}
 .masthead{
   margin-top: 50px;
   margin-bottom: 10px;
@@ -45,3 +48,4 @@ a:hover {
 .number3 {
   margin-left: 8px;
 }
+
